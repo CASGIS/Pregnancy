@@ -1,0 +1,34 @@
+id,coef,se,star,group
+Spring,-1.1298,1.0292,,Season
+Summer,-3.0608,0.9037,***,Season
+Fall,1.2787,1.148,,Season
+Winter,-3.322,2.4586,,Season
+,,,,
+<5,-2.0359,5.7479,,Weight
+"[5, 6)",-0.5606,1.2716,,Weight
+"[6, 7)",-0.8052,0.7129,,Weight
+"[7, 8)",-1.9348,0.8458,**,Weight
+>8,-2.0813,0.758,***,Weight
+,,,,
+<20,-0.8905,6.6845,,Age
+"[20, 25)",-0.892,1.4678,,Age
+"[25, 30)",-4.0003,1.3595,***,Age
+>30,-6.8014,3.925,*,Age
+,,,,
+Higher GDP,-0.7016,0.6347,,GDP
+Lower GDP,-1.905,0.691,***,GDP
+,,,,
+Northern,-2.1011,0.6492,***,Dialect
+Non-northern,-0.7214,0.673,,Dialect
+,,,,
+Higher female education,-0.6847,0.6388,,Education
+lower female education,-2.0116,0.6811,***,Education
+,,,,
+Natural delivery,-1.1348,0.4724,**,Delivery
+Caesarean surgery,-3.3323,0.988,***,Delivery
+,,,,
+College and above,-2.7432,0.8349,***,College
+Below college,-0.924,0.4935,*,College
+,,,,
+elderly-maternal age,-4.5143,-1.2726,***,Elderly-maternal
+Non-elderly maternal age,-1.0577,-1.4383,,Elderly-maternal
